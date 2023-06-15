@@ -1,0 +1,50 @@
+.home {
+    display: flex;
+    text-align: center;
+    margin-top: 10%;
+  }
+  
+  .header {
+    margin: 0;
+      line-height: 1.5;
+      font-size: 1rem;
+      color: #0D4772;
+  }
+  
+  .inputBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .input {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .button{
+    margin-left: 1em;
+    margin-top: 0;
+    padding: '1.1em';
+    color: #0D4772;
+    background-color: #0D4772
+  }
+
+  .text-field{
+        line-height: 1.4375em;
+        font-size: 0.875rem;
+        color: #fff;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        cursor: text;
+        display: inline-flex;
+        align-items: center;
+        position: relative;
+        background-color: #FFFFFF;
+        margin-right: 1em;
+        width: 50%;
+  }
+
+  .link{
+    color:'#0d4772'
+  }
